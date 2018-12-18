@@ -1,0 +1,22 @@
+2018-12-18 16:41:41,469 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:5000
+2018-12-18 16:41:41,469 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:5000
+2018-12-18 16:41:42,741 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:5000
+2018-12-18 16:41:42,741 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 127.0.0.1:5000
+2018-12-18 16:41:45,075 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
+2018-12-18 16:41:45,075 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
+2018-12-18 16:41:45,075 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
+2018-12-18 16:45:13,348 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 115.28.108.130:5000
+2018-12-18 16:45:13,348 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 115.28.108.130:5000
+2018-12-18 16:45:13,439 - connectionpool.py[line:393] - DEBUG: http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-18 16:45:13,439 - connectionpool.py[line:393] - DEBUG: http://115.28.108.130:5000 "POST /api/user/login/ HTTP/1.1" 200 21
+2018-12-18 16:45:13,443 - config_http.py[line:68] - DEBUG: {"name": "张三", "password": "123456"}
+2018-12-18 16:45:13,443 - config_http.py[line:68] - DEBUG: {"name": "张三", "password": "123456"}
+2018-12-18 16:45:13,491 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 115.28.108.130:5000
+2018-12-18 16:45:13,491 - connectionpool.py[line:205] - DEBUG: Starting new HTTP connection (1): 115.28.108.130:5000
+2018-12-18 16:45:13,554 - connectionpool.py[line:393] - DEBUG: http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 116
+2018-12-18 16:45:13,554 - connectionpool.py[line:393] - DEBUG: http://115.28.108.130:5000 "POST /api/user/reg/ HTTP/1.1" 200 116
+2018-12-18 16:45:13,558 - config_http.py[line:68] - DEBUG: "{\"name\": \"\\u90d1\\u7225\", \"password\": \"123456\"}"
+2018-12-18 16:45:13,558 - config_http.py[line:68] - DEBUG: "{\"name\": \"\\u90d1\\u7225\", \"password\": \"123456\"}"
+2018-12-18 16:45:15,003 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
+2018-12-18 16:45:15,003 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
+2018-12-18 16:45:15,003 - e_mail.py[line:33] - INFO: 测试报告邮件已发送
